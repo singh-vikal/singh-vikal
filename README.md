@@ -1,6 +1,6 @@
 ![](wc.svg)
 
-### Hi there 👋,I am using GitHub.
+
 
 
 <!--   my-icons -->
@@ -31,6 +31,8 @@
  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=singh-vikal&theme=dracula&hide_border=true" alt="singh-vikal" /></p> 
   
  </p>
+ 
+ ### Hi there 👋,I am using GitHub.
 <!--
 **singh-vikal/singh-vikal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
